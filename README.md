@@ -1,6 +1,38 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xRYVR9KZ)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19857563)
-# afd-2023M-Bootstrap-Challenge
+# Full Stack Conference Website
 
-**Instructions:**
-In this bootstrap challenge you are tasked to replicate the web page shown in the project-demo file, using only bootstrap 5 (No JS or any other CSS Framework).
+A responsive conference website built with Bootstrap 5 for a JavaScript-focused tech conference.
+
+## Project Setup
+
+1. **Download** the project files
+2. **Open** `index.html` in your web browser
+
+That's it! No additional setup required.
+
+## Technologies Used
+
+- HTML5
+- Bootstrap 5.3.7
+- CSS3 (Very minimum)
+
+## Project Structure
+
+```
+week-7-Nmesoma-solomon-peter/
+├── index.html              # Main HTML file
+├── styles/
+│   └── home.css           # Custom CSS styles
+├── project-demo.webm      # Demo video
+└── README.md              # This file
+```
+
+## Features
+
+- Responsive design
+- Conference registration form
+- Event schedule
+- Modern UI with Bootstrap components
+
+## Author
+
+Nmesoma Solomon Peter - Week 7 Bootstrap Challenge
